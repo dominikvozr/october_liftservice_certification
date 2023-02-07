@@ -1,12 +1,15 @@
 {
     "name": "root/certification",
-    "require": {
-        "barryvdh/laravel-dompdf": "^2.0"
+    "autoload": {
+        "psr-4": {
+            "Root\\Certification\\": "src/"
+        }
     },
     "authors": [
         {
             "name": "Dominik Vozar",
             "email": "dominikvozr@gmail.com"
         }
-    ]
+    ],
+    "require": {}
 }
