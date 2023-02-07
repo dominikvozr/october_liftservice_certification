@@ -1,0 +1,15 @@
+fields:
+    signImage:
+        label: Podpis
+        type: fileupload
+        mode: image
+        useCaption: true
+        thumbOptions:
+            mode: crop
+            extension: auto
+        span: auto
+        imageHeight: 160
+        imageWidth: 260
+    serviceOrganizationEc:
+        type: text
+        label: "Evidenčné číslo servisnej organizácie:"

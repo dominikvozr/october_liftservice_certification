@@ -1,0 +1,12 @@
+{
+    "name": "root/certification",
+    "require": {
+        "barryvdh/laravel-dompdf": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "Dominik Vozar",
+            "email": "dominikvozr@gmail.com"
+        }
+    ]
+}

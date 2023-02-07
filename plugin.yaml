@@ -1,0 +1,21 @@
+plugin:
+    name: 'dondo.certification::lang.plugin.name'
+    description: 'dondo.certification::lang.plugin.description'
+    author: Dondo
+    icon: oc-icon-certificate
+    homepage: ''
+navigation:
+    certifications:
+        label: Certifications
+        url: dondo/certification/certifications
+        icon: icon-certificate
+        sideMenu:
+            certifications:
+                label: Certifications
+                url: dondo/certification/certifications
+                icon: icon-building
+            Config:
+                label: config
+                url: system/settings/update/dondo/certification/settings
+                icon: icon-sitemap
+                iconSvg: ''

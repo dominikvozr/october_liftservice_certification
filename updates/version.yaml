@@ -1,0 +1,64 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.4:
+    - 'Created table dondo_certification_product_two'
+    - builder_table_create_dondo_certification_product_two.php
+1.0.5:
+    - 'Created table dondo_certification_config'
+    - builder_table_create_dondo_certification_config.php
+1.0.6:
+    - 'Updated table dondo_certification_config'
+    - builder_table_update_dondo_certification_configs.php
+1.0.7:
+    - 'Updated table dondo_certification_configs'
+    - builder_table_update_dondo_certification_configs_2.php
+1.0.9:
+    - 'Created table dondo_certification_expert_inspection_engine'
+    - builder_table_create_dondo_certification_expert_inspection_engine.php
+1.0.11:
+    - 'Updated table dondo_certification_expert_inspection_engine'
+    - builder_table_update_dondo_certification_expert_inspection_engine.php
+1.0.12:
+    - 'Created table dondo_certification_expert_inspection_shaft_platform'
+    - builder_table_create_dondo_certification_expert_inspection_shaft_platform.php
+1.0.14:
+    - 'Created table dondo_certification_expert_inspection_cabin'
+    - builder_table_create_dondo_certification_expert_inspection_cabin.php
+1.0.16:
+    - 'Updated table dondo_certification_configs'
+    - builder_table_update_dondo_certification_configs_3.php
+1.0.21:
+    - 'Created table dondo_certification_expert_inspection'
+    - builder_table_create_dondo_certification_expert_inspection.php
+    - builder_table_update_dondo_certification_expert_inspection_2.php
+    - builder_table_update_dondo_certification_expert_inspection_3.php
+    - builder_table_update_dondo_certification_expert_inspection_4.php
+    - builder_table_update_dondo_certification_expert_inspection_5.php
+    - builder_table_update_dondo_certification_expert_inspection_6.php
+1.0.22:
+    - 'Updated table dondo_certification_product_two'
+    - builder_table_update_dondo_certification_professional_inspection_protocol.php
+1.0.24:
+    - 'Updated table dondo_certification_professional_inspection_protocol'
+    - builder_table_update_dondo_certification_professional_inspection_protocol_2.php
+1.0.25:
+    - 'Updated table dondo_certification_expert_inspection'
+    - builder_table_update_dondo_certification_expert_inspection_7.php
+1.0.26:
+    - 'Updated table dondo_certification_expert_inspection'
+    - builder_table_update_dondo_certification_expert_inspection_8.php
+1.0.27:
+    - 'Updated table dondo_certification_expert_inspection'
+    - builder_table_update_dondo_certification_expert_inspection_9.php
+1.0.28:
+    - 'Updated table dondo_certification_expert_inspection'
+    - builder_table_update_dondo_certification_expert_inspection_10.php
+1.0.29:
+    - 'Updated table dondo_certification_expert_inspection'
+    - builder_table_update_dondo_certification_expert_inspection_11.php
+1.0.30:
+    - 'Updated table dondo_certification_professional_inspection_protocol'
+    - builder_table_update_dondo_certification_professional_inspection_protocol_3.php
+1.0.31:
+    - 'Updated table dondo_certification_expert_inspection add poucenie'
+    - builder_table_update_dondo_certification_expert_inspection_12.php

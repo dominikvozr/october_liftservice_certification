@@ -1,0 +1,16 @@
+name: Config
+form: $/dondo/certification/models/config/fields.yaml
+modelClass: Dondo\Certification\Models\Config
+defaultRedirect: dondo/certification/config
+create:
+    title: 'Create config'
+    redirect: 'dondo/certification/config/update/:id'
+    redirectClose: dondo/certification/config
+update:
+    title: 'Update config'
+    redirect: dondo/certification/config
+    redirectClose: dondo/certification/config
+preview:
+    title: 'Preview config'
+    redirect: dondo/certification/config
+    redirectClose: dondo/certification/config

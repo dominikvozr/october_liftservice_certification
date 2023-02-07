@@ -1,0 +1,7 @@
+columns:
+    sign_image:
+        label: sign_image
+        type: text
+    serviceOrganizationEc:
+        label: serviceOrganizationEc
+        type: text

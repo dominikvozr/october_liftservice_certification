@@ -1,0 +1,4 @@
+title: Config
+modelClass: Dondo\Certification\Models\Config
+toolbar:
+    buttons: reorder_toolbar
