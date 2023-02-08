@@ -1,10 +1,5 @@
 {
-    "name": "root/certification",
-    "autoload": {
-        "psr-4": {
-            "Root\\Certification\\": "src/"
-        }
-    },
+    "name": "dondo/certification-plugin",
     "authors": [
         {
             "name": "Dominik Vozar",
